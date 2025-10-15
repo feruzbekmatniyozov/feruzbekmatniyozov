@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @feruzbekmatniyozov
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Feruzbek Matniyazov
+- 🧑‍🎓 Currently, I'm a student at Al-Khwarizmi University (Faculty of AI)
 - 📫 How to reach me +998974776575
 
 <!---
